@@ -1,0 +1,23 @@
+.form {
+  margin: 20px 0;
+}
+
+.form button {
+  margin-left: 5px;
+}
+
+.todo-list ul {
+  list-style: none;
+  padding: 5px;
+}
+
+.todo-list ul li {
+  background-color: #2c83a9;
+  color: #fff;
+  padding: 15px;
+  margin-bottom: 5px;
+}
+
+button {
+  cursor: pointer;
+}
